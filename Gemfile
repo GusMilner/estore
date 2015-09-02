@@ -48,4 +48,14 @@ end
 
 gem 'simple_form'
 gem 'devise'
+gem 'cancan'
+gem 'paperclip'
+
+gem 'dotenv-rails', groups: [:development]
+
+gem 'aws-sdk', '< 2.0'
+
+gem 'friendly_id'
+gem 'stripe'
+gem 'aasm'
 
